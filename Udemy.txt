@@ -1,0 +1,13 @@
+SQL
+https://www.udemy.com/course/the-complete-sql-bootcamp/
+https://www.udemy.com/course/sql-and-postgresql/
+
+Javascript
+https://www.udemy.com/course/the-complete-javascript-course/
+
+SOLID principles
+https://www.udemy.com/course/solid-principles-object-oriented-design-architecture/
+
+APACHE
+https://www.udemy.com/course/apache-kafka/
+https://www.udemy.com/course/apache-tomcat-for-beginners-and-advanced/
