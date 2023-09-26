@@ -1,4 +1,4 @@
-# Coding guidelines
+# Design guidelines
 
 ## SOLID
 
@@ -37,5 +37,10 @@
 *   Modules should depend on abstractions (interfaces);
 *   Code becomes more agile, flexible and reusable;
 
-## Internal guidelines
+## Repository patern
+*   Isolates the data access layer;
+*   Allows the application to work with an interface that replicates data collection;
+*   Removes the need to deal with database concerns like connections, commands, cursors, or readers;
+
+## Internal Coding guidelines
 *   Refer to BA_MeX Wiki;
