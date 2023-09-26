@@ -1,12 +1,12 @@
 # SQL vs. NoSQL Databases
 
 ## SQL (Structured Query Language) Database
-   *   Relational databases;
-   *   Data is organized in a table like maner;
-   *   Easily matches data by using common characteristics (name, age, etc...);
-   *   Single server type of database, scalability is dependent on hardware upgrades (RAM, CPU);
-   *   Easier to code SQL queries, meaning that the needed expertise to interact with this type of database is lower;
-   *   ACID (Atomicity, Consistency, Isolation, and Durability) compliance;
+*   Relational databases;
+*   Data is organized in a table like maner;
+*   Easily matches data by using common characteristics (name, age, etc...);
+*   Single server type of database, scalability is dependent on hardware upgrades (RAM, CPU);
+*   Easier to code SQL queries, meaning that the needed expertise to interact with this type of database is lower;
+*   ACID (Atomicity, Consistency, Isolation, and Durability) compliance;
 
 ## NoSQL (Not Only SQL) Database
 *   Non-relational databases;
