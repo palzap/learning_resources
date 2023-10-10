@@ -29,7 +29,7 @@ const requestHandler = (req, res) => {
 		});
  		res.statusCode = 302;
 		res.setHeader('Location', '/');
-		res.end();
+		return res.end();
 	};
 
 	res.write('<html>');
