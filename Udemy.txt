@@ -10,6 +10,3 @@ https://www.udemy.com/course/sql-and-postgresql/
 Javascript
 https://www.udemy.com/course/the-complete-javascript-course/
 
-APACHE
-https://www.udemy.com/course/apache-kafka/
-https://www.udemy.com/course/apache-tomcat-for-beginners-and-advanced/
